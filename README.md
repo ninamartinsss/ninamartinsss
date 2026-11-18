@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pink-sky-banner.svg" alt="Pink pixel-art sky with a moon above the clouds" width="100%">
+  <img src="./ivory-moon-banner.svg" alt="Ivory moon among rose-colored clouds" width="100%">
 </div>
 
 ## About me
