@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg" alt="Nina Martins. Building ideas into software." width="100%">
+  <img src="./profile-banner.svg" alt="Pink pixel-art sky with a moon above the clouds" width="100%">
 </div>
 
 ## About me
