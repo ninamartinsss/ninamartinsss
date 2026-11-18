@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title">
+  <title id="title">Nina Martins — Building ideas into software</title>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#200e27"/>
+      <stop offset="1" stop-color="#652742"/>
+    </linearGradient>
+    <linearGradient id="orbit" x2="100%" y2="100%">
+      <stop stop-color="#ffb7cf"/>
+      <stop offset="1" stop-color="#b872b1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="22" fill="url(#background)"/>
+  <rect x="16" y="16" width="1168" height="278" rx="14" fill="none" stroke="#dc98b7" stroke-opacity=".32"/>
+  <g fill="none" stroke="url(#orbit)" stroke-width="1.5" transform="translate(1000 153)">
+    <circle r="109" opacity=".48"/>
+    <circle r="92" opacity=".38"/>
+    <ellipse rx="130" ry="43" transform="rotate(-33)" opacity=".76"/>
+    <ellipse rx="130" ry="43" transform="rotate(43)" opacity=".45"/>
+    <path d="M0-70 Q9-10 68 0 Q9 10 0 70 Q-9 10-68 0 Q-9-10 0-70Z" fill="#f9b3cb" fill-opacity=".16"/>
+    <path d="M0-37 Q5-6 32 0 Q5 6 0 37 Q-5 6-32 0 Q-5-6 0-37Z" fill="#ffd4e2" stroke="none"/>
+  </g>
+  <g fill="#f4adca"><circle cx="892" cy="101" r="4"/><circle cx="1108" cy="202" r="4"/><circle cx="1092" cy="64" r="3"/><circle cx="930" cy="255" r="2"/></g>
+  <text x="66" y="82" fill="#f7b6d0" font-family="monospace" font-size="18" letter-spacing="4">SOFTWARE DEVELOPMENT</text>
+  <text x="60" y="177" fill="#fff0f5" font-family="Georgia, serif" font-size="92" letter-spacing="-3">Nina Martins</text>
+  <path d="M66 206h52" stroke="#ef9ec0" stroke-width="2"/>
+  <text x="66" y="251" fill="#f8cadd" font-family="Georgia, serif" font-style="italic" font-size="31">Building ideas into software.</text>
+</svg>
