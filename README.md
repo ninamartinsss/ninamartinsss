@@ -10,7 +10,7 @@ I build web applications, connect systems through APIs, and automate workflows. 
 
 ## Technologies & tools
 
-<img align="right" width="265" src="./coding-kitten.svg" alt="Black kitten at a laptop by candlelight">
+<img align="right" width="265" src="./sleeping-pixel-kitten.svg" alt="Sleeping pink kitten with pixel hearts">
 
 Tools and technologies I’ve used in projects, coursework, or hands-on practice.
 
