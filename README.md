@@ -10,18 +10,28 @@ I build web applications, connect systems through APIs, and automate workflows. 
 
 ## Technologies & tools
 
-<img align="right" width="265" src="./rose-kitten.svg" alt="Sleeping tabby in rose and amber">
-
 Tools and technologies I’ve used in projects, coursework, or hands-on practice.
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | C# · Python · JavaScript · TypeScript · Java · PHP · SQL |
-| **Frontend** | HTML5 · CSS3 · React · Next.js · Bootstrap |
-| **Backend** | Node.js · .NET · ASP.NET Core |
-| **Data & platforms** | PostgreSQL · SQL Server · MySQL · Supabase |
-| **DevOps & automation** | Git · GitHub · Docker · n8n |
-| **Development & design** | Postman · VS Code · Figma |
+<div align="center">
+<table align="center">
+<tr>
+<td valign="middle">
+<table>
+<tr><th align="left">Area</th><th align="left">Technologies</th></tr>
+<tr><td align="left"><strong>Languages</strong></td><td align="left">C# · Python · JavaScript · TypeScript · Java · PHP · SQL</td></tr>
+<tr><td align="left"><strong>Frontend</strong></td><td align="left">HTML5 · CSS3 · React · Next.js · Bootstrap</td></tr>
+<tr><td align="left"><strong>Backend</strong></td><td align="left">Node.js · .NET · ASP.NET Core</td></tr>
+<tr><td align="left"><strong>Data &amp; platforms</strong></td><td align="left">PostgreSQL · SQL Server · MySQL · Supabase</td></tr>
+<tr><td align="left"><strong>DevOps &amp; automation</strong></td><td align="left">Git · GitHub · Docker · n8n</td></tr>
+<tr><td align="left"><strong>Development &amp; design</strong></td><td align="left">Postman · VS Code · Figma</td></tr>
+</table>
+</td>
+<td align="center" valign="middle">
+<img width="225" src="./rose-kitten.svg" alt="Sleeping tabby in rose and amber">
+</td>
+</tr>
+</table>
+</div>
 
 ## Selected projects
 
