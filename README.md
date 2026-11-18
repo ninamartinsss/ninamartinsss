@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ninamartinsss/ninamartinsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸
 
-Here are some ideas to get you started:
+# Nina Martins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desenvolvedora de software · Estudante de Engenharia de Software**
+
+*Código, ciência e criação.*
+
+</div>
+
+Formada em Análise e Desenvolvimento de Sistemas, curso Engenharia de Software e desenvolvo aplicações web. Também estudo IA e neurotecnologia de forma independente e exploro ideias de produto em projetos criativos.
+
+### O que estou construindo
+
+| Projeto | O que faço nele |
+| :--- | :--- |
+| **Vértice CRM** | Aplicação web para organizar contatos, empresas, oportunidades e tarefas comerciais, com integração ao Supabase. |
+| **PINK** | Site musical que reúne álbuns e faixas em uma biblioteca visual com player integrado. |
+
+### O que estou explorando
+
+**Engenharia de software** · aplicações web, automação e integração de dados  
+**Pesquisa** · inteligência artificial, machine learning e neurotecnologia  
+**Criação** · música, direção visual e design de interfaces
