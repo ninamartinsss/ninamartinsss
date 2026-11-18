@@ -1,26 +1,33 @@
 <div align="center">
-
-🌸
-
-# Nina Martins
-
-**Desenvolvedora de software · Estudante de Engenharia de Software**
-
-*Código, ciência e criação.*
-
+  <img src="./profile-banner.svg" alt="Nina Martins. Building ideas into software." width="100%">
 </div>
 
-Formada em Análise e Desenvolvimento de Sistemas, curso Engenharia de Software e desenvolvo aplicações web. Também estudo IA e neurotecnologia de forma independente e exploro ideias de produto em projetos criativos.
+## About me
 
-### O que estou construindo
+**Software Developer · Full Stack Developer · Software Engineering Student**
 
-| Projeto | O que faço nele |
+I build web applications, connect systems through APIs, and automate workflows. I hold a degree in Systems Analysis and Development and am currently studying Software Engineering. I’m particularly interested in backend engineering, software architecture, and applied AI.
+
+## Technologies & tools
+
+Tools and technologies I’ve used in projects, coursework, or hands-on practice.
+
+| Area | Technologies |
 | :--- | :--- |
-| **Vértice CRM** | Aplicação web para organizar contatos, empresas, oportunidades e tarefas comerciais, com integração ao Supabase. |
-| **PINK** | Site musical que reúne álbuns e faixas em uma biblioteca visual com player integrado. |
+| **Languages** | C# · Python · JavaScript · TypeScript · Java · PHP · SQL |
+| **Frontend** | HTML5 · CSS3 · React · Next.js · Bootstrap |
+| **Backend** | Node.js · .NET · ASP.NET Core |
+| **Data & platforms** | PostgreSQL · SQL Server · MySQL · Supabase |
+| **DevOps & automation** | Git · GitHub · Docker · n8n |
+| **Development & design** | Postman · VS Code · Figma |
 
-### O que estou explorando
+## Selected projects
 
-**Engenharia de software** · aplicações web, automação e integração de dados  
-**Pesquisa** · inteligência artificial, machine learning e neurotecnologia  
-**Criação** · música, direção visual e design de interfaces
+| Project | What I’m building |
+| :--- | :--- |
+| **Vértice CRM** | A sales workspace for contacts, companies, deals, and tasks, with Supabase authentication and data synchronization. |
+| **PINK** | A music library with a visual album browser and an integrated player. |
+
+## Engineering interests
+
+Backend engineering · Software architecture · REST APIs & webhooks · Workflow automation · Applied AI
