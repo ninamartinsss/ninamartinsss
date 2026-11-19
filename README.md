@@ -27,7 +27,6 @@ Tools and technologies I’ve used in projects, coursework, or hands-on practice
 </table>
 </td>
 <td align="center" valign="middle">
-<img width="225" src="./rose-kitten.svg" alt="Sleeping tabby in rose and amber">
 </td>
 </tr>
 </table>
